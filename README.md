@@ -1,5 +1,7 @@
 # The Overture Tool Language Board
 
-This repository should remain empty: its primary purpose is the issues tracker and wiki that are used by the Overture Language Board.  For more information, see the main [Overture webpage](http://overturetool.org) or look at the [Overture community description](http://wiki.overturetool.org/index.php?title=The_Community) and the [Language Board process](http://wiki.overturetool.org/index.php/Language_Board_Process) pages for specific details.  (Note that the last two pages will move to the main webpage in due course.)
+This repository should remain empty: its primary purpose is the issue tracker and wiki that are used by the Overture Language Board (LB).  For more information, see the main [Overture webpage](http://overturetool.org) or check out the [wiki](https://github.com/overturetool/language/wiki).
+
+Information about previous and upcoming LB meetings can be found [here](https://github.com/overturetool/language/wiki/Language-Board-NetMeeting-Minutes).
 
 Documentation, including the VDM 10 Language Reference Manual, can be found in the [documentation repository](https://github.com/overturetool/documentation).
